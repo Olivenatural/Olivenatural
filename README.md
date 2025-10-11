@@ -1,7 +1,5 @@
 # Hi, I'm Tamauri 👋
 
-# Hi, I'm Tamauri 👋
-
 **Data Analyst (Wellness) / Junior Data Scientist**  
 Python • pandas • Matplotlib • scikit-learn • SQL | Churn • NLP • Cohort Analysis
 
