@@ -1,7 +1,6 @@
 # Hi, I'm Tamauri 👋
 
 **Data Analyst (Wellness) / Junior Data Scientist**  
-Python • pandas • Matplotlib • scikit-learn • SQL | Churn • NLP • Cohort Analysis
 
 I turn real-world wellness experience (10+ yrs massage therapy) into data insights that retain customers and lift revenue. I build churn models, analyze booking patterns, and mine reviews for themes leaders can act on.
 
@@ -13,7 +12,7 @@ I turn real-world wellness experience (10+ yrs massage therapy) into data insigh
 > Links to repositories are in my pinned repos below.
 
 ## 🧰 Toolbox
-`Python` · `pandas` · `Matplotlib` · `scikit-learn` · `SQL` · `Jupyter` · `Git/GitHub`
+`Python` · `pandas` · `Matplotlib` · `scikit-learn` · `SQL` · `Jupyter` · `Git/GitHub` · 'Churn' · 'NLP' · 'Co-hort Analysis'
 
 ## 📚 Currently learning
 - Practical ML for retention (thresholds, cost-aware evaluation)  
